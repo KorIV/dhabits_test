@@ -7,7 +7,7 @@ const { DirectoryTree } = Tree;
 
 const initTreeData = [
   {
-    title: 'Expand to load',
+    title: 'Data',
     key: '0',
   },
 ];
